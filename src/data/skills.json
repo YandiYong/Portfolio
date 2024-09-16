@@ -1,0 +1,25 @@
+[ {
+    "title":"HTML&CSS",
+    "imageSrc":"skills/html.png"
+  },
+  {
+    "title":"ANGULAR",
+    "imageSrc":"skills/angular.png"
+  },
+  {
+    "title":"FIGMA",
+    "imageSrc":"skills/figma.png"
+  },
+  {
+    "title":"SPRINGBOOT",
+    "imageSrc":"skills/springboot.png"
+  },
+  {
+    "title":"GIT",
+    "imageSrc":"skills/git.png"
+  },
+  {
+    "title":"POSTGRESQL",
+    "imageSrc":"skills/postgresql.png"
+  }
+]

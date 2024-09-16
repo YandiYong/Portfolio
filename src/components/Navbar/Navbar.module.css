@@ -22,7 +22,7 @@
 }
 
 .menuItems{
-    display: flex;
+    display: none;
     gap: 47px;
     list-style: none;
 }
@@ -40,7 +40,7 @@
     cursor: pointer;
 }
 
-/* To make websites we use media queries */
+/* used in responsive design to adjust the layout of navigation bars */
 
 @media screen and (max-width: 830px) {
     .navbar{

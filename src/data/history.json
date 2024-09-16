@@ -1,0 +1,18 @@
+[
+    {
+      "role":"Full-Stack Developer",
+      "organisation":"Shaper",
+      "startDate":"April, 2024",
+      "endDate":"March, 2025",
+      "experiences":"Worked developping full-Stack app using angular framework for frontend, and springBoot framework for backend and APIs ",
+      "imageSrc":"history/Shaper.png"
+    },
+    {
+      "role":"System Support",
+      "organisation":"Velisa",
+      "startDate":"February, 2023",
+      "endDate":"December, 2023",
+      "experiences":"Worked on creating VMs,configure routers, and setUp servers  ",
+      "imageSrc":"history/Velisa.png"
+    }
+]
