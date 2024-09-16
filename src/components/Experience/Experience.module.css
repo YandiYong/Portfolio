@@ -1,3 +1,5 @@
+@import "../../vars.css";
+
 .imgSkill{
     height: 40px;
     width: 40px;
@@ -7,3 +9,79 @@
     height: 40px;
     width: 40px;
 }
+
+.container{
+    color: var(--color-text);
+    margin-top: 79px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.title{
+    color: var(--color-text);
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+}
+
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 14px;
+}
+
+.skills{
+    width: 45%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 37px;
+}
+
+
+.skill{
+    display: flex;
+    flex-direction: column;
+    gap: 37px;
+    align-items: center;
+}
+.skillImgContainer{
+    background-color: var(--color-secondary);
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 120px;
+    height: 120px;
+}
+
+.skillImgContainer img{
+    font-size: 75px;
+}
+
+.skill p{
+    font-size: 25px;
+    font-family: var(--font-roboto);
+    font-weight: 500;
+}
+
+.history{
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.historyItem{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap:17px;
+    background: rgb(25, 55, 109);
+    background: linear-gradient(90deg,rgb(25, 55, 109)0%,rgb(25, 55, 109,0)100% );
+    border-radius: 10px;
+    padding: 24px;
+    text-decoration: none;
+}
+

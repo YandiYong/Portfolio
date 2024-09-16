@@ -4,15 +4,15 @@
       "organisation":"Shaper",
       "startDate":"April, 2024",
       "endDate":"March, 2025",
-      "experiences":"Worked developping full-Stack app using angular framework for frontend, and springBoot framework for backend and APIs ",
+      "experiences":["Worked developping full-Stack app using angular framework for frontend, and springBoot framework for backend and APIs "],
       "imageSrc":"history/Shaper.png"
     },
     {
-      "role":"System Support",
-      "organisation":"Velisa",
+      "role":"Systems Support",
+      "organisation":"Velisa Africa",
       "startDate":"February, 2023",
       "endDate":"December, 2023",
-      "experiences":"Worked on creating VMs,configure routers, and setUp servers  ",
+      "experiences":["Worked on creating VMs","Configure routers","setUp servers "],
       "imageSrc":"history/Velisa.png"
     }
 ]
