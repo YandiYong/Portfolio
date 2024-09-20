@@ -4,6 +4,7 @@ import { getImageUrl } from "../../utils";
 import skills from "../../data/skills.json";
 import history from "../../data/history.json";
 
+
 export const Experience =() =>{
 
     return (
