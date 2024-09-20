@@ -1,0 +1,15 @@
+[
+  {
+    
+    "title":"Project A",
+    "imageSrc":"projects/Project.png",
+    "desc":"This is a project made for Organizations to post their business processes to be analyzed by a community of hunters that will find any inefficiencies within the business processes therefore write a report to the organizations with the inefficiencies found.",
+    "skills":["Angular","Springboot","Java","Postgresql"],
+    "demo":"http://",
+    "source":"https://www.github"
+
+  }
+
+
+
+]

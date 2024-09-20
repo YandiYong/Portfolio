@@ -23,6 +23,7 @@
 
 .menuItems{
     display: none;
+    /* display: flex; */
     gap: 47px;
     list-style: none;
 }
